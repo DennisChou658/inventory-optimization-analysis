@@ -1,0 +1,6 @@
+Product,Average_Daily_Demand,Demand_Std,Lead_Time_Days,Current_Inventory,Safety_Stock,Reorder_Point,Days_of_Inventory,Stockout_Risk
+Product_A,120,18,7,1100,78.6,918.6,9.2,Low
+Product_B,85,12,10,760,62.6,912.6,8.9,High
+Product_C,150,25,6,1050,101.0,1001.0,7.0,Low
+Product_D,65,10,12,620,57.2,837.2,9.5,High
+Product_E,100,16,8,880,74.7,874.7,8.8,Low
