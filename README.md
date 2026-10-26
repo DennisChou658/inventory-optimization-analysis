@@ -43,7 +43,8 @@ Identify products with higher stockout risk.
 Evaluate inventory efficiency and turnover.
 
 Visualize supply chain data to support operational decisions.
-
+## Inventory Visualization
+![Inventory Optimization Analysis](inventory_optimization_plot.png)
 ## Data
 
 This project uses simulated supply chain and inventory data only.
